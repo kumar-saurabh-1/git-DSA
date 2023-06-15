@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-    // version 2 check
+
 bool binarySearch(int arr[], int low,int high,int key){
     // base case
     if(low > high){
