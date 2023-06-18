@@ -2,7 +2,7 @@
 using namespace std;
 
 bool binarySearch(int arr[], int low,int high,int key){
-    // base case
+    // base case version 12
     if(low > high){
         return false;
     }
